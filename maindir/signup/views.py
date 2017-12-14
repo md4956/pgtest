@@ -61,6 +61,7 @@ def signed_up():
     return '<h1>done !</h1>'
 
 
+
 @signup_blueprint.route('/test')
 def test():
     mhasani = {
